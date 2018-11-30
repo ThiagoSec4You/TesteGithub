@@ -7,3 +7,5 @@ Repositório teste do Github
 Teste de atualização 1
 
 Atualização 2
+
+Atualização 3
